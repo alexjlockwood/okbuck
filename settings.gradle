@@ -15,5 +15,6 @@ include "libraries:lintErrorLibrary"
 include "libraries:parcelable"
 include "libraries:scalalibrary"
 include "manifest-merger-cli"
+
 include "plugin"
 include "transform-cli"
